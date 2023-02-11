@@ -1,13 +1,31 @@
 var arrLang = {
   "uz-uz": {
+    // navbar section
     "navbar_home": "Bosh sahifa",
     "navbat_about": "Biz haqimizda",
-    "navbar_service": "Aloqa",
+    "navbar_service": "Xizmatlar",
+
+    // home section
+
+    // about section
+    "about_heading": "Biz haqimizda"
+
+    // service section
+
+    // counter section
+
+    // project section
   },
   "ru-ru": {
+    // navbar section
     "navbar_home": "Главная страница",
     "navbat_about": "О нас",
     "navbar_service": "Связь",
+
+    // home section
+
+    // about section
+    "about_heading": "О нас"
   }
 };
 
