@@ -30,9 +30,11 @@ var arrLang = {
 
     // counter section
     "counter_work_name": "Ish vaqti",
+    "counter_work_hour": "soat",
     "counter_project_name": "Completed Projects",
     "counter_worker_name": "Ishchi xodimlar",
     "counter_volume_name": "Yillik ishlab chiqarish hajmi",
+    "counter_volume": "metr kub",
 
     // benifits section
     "benifits": "BS Gazobloklarining afzalliklari",
@@ -105,9 +107,11 @@ var arrLang = {
 
     // counter section
     "counter_work_name": "Рабочее время",
+    "counter_work_hour": "часы",
     "counter_project_name": "Completed Projects",
     "counter_worker_name": "Рабочий персонал",
     "counter_volume_name": "Годовой объем производства",
+    "counter_volume": "метр кубический",
 
     // benifits section
     "benifits": "Преимущества газоблоков BS",
