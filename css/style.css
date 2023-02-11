@@ -1355,3 +1355,15 @@ body{
             width: 100%;
         }
 }
+
+@media (max-width: 460px) {
+
+      .header .logo img{
+        width: auto;
+        height: 3rem;
+        top: 0;
+        left: 0;
+        background-size: cover;
+    }
+
+}
