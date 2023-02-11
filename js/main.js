@@ -86,11 +86,11 @@ var arrLang = {
 
     // home section
     "home_title": "BS GAZOBLOK",
-    "home_subtitle": "Галандиянинг воздухобетонные технологии",
+    "home_subtitle": "Голландия AIRCRETE технологии",
 
     // about section
     "about_heading": "О нас",
-    "about_content_title": "Газоблоки BS с технологией GALANDIA Aircrete!",
+    "about_content_title": "Газоблоки BS с технологией Голландия Aircrete!",
     "about_content_subtitle": "Компания Bsgroup является лидером по производству автоклавированных газоблоков на территории Узбекистана. Наш завод был основан в 2023 году, производственная мощность завода составляет 450 000 кубометров продукции в год. BSGroup-это современный завод, оснащенный технологиями производства GALANDIA AIRCRETE,который производит автоклавные газоблоки.",
 
     // service section
@@ -111,7 +111,7 @@ var arrLang = {
 
     // benifits section
     "benifits": "Преимущества газоблоков BS",
-    "benifits_speed": "Qurulish tezligi",
+    "benifits_speed": "Скорость сборки",
     "benifits_rigth": "Точность",
     "benifits_fire": "Огнестойкость",
     "benifits_eco": "Экологически чистый",
