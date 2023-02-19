@@ -155,6 +155,9 @@ var arrLang = {
   }
 };
 
+const token = '6205357192:AAHi9Y7U6TFyL7K0hwa4Q6NBKn7GM18_Cpk';
+const chatId = '954907985';
+
 
 $(document).ready(function(){
 
@@ -247,14 +250,26 @@ $(".translate").change(function() {
   });
 });
 
+// send message to admin
+$("#add_button").on('click', function (event) {
+    execute();
 });
 
+function execute() {
+    const name = document.querySelector('#name').value;
+    const phone = document.querySelector('#phone').value;
+    const email = document.querySelector('#email').value;
+    const user_message = document.querySelector('#user_message').value;
+    const message = `Fullname: ${name} \nPhone: ${phone} \nEmail: ${email} \nMessage: ${user_message}`;
 
-function SubForm() {
     $.ajax({
-        url:"https://api.apispreadsheets.com/data/3EFUWQJ0owxCaD8p/",
-        type:"post",
-        data:$("#myForm").serializeArray(),
+        type: 'POST',
+        url: `https://api.telegram.org/bot${token}/sendMessage`,
+        data: {
+            chat_id: chatId,
+            text: message,
+            parse_mode: 'html',
+        },
         success: function(){
             alert("Form Data Submitted :)")
         },
@@ -262,7 +277,8 @@ function SubForm() {
             alert("There was an error :(")
         }
     });
-            $('#myForm').each(function () {
-                this.reset();
-            });
-        }
+    $('#myForm').each(function () {
+        this.reset();
+    });
+}
+});

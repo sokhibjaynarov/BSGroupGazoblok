@@ -281,12 +281,12 @@
         </div>
         <div class="contact-form">
             <form id="myForm">
-                <input name="name" class="contact-form-txt" placeholder="Name" required />
-                <input name="phone" class="contact-form-phone" placeholder="Contact number" pattern="[0-9]{10}"  maxlength="10" required />
-                <input name="email" class="contact-form-email" placeholder="Email required" required />
-                <textarea name="message" class="contact-form-txtarea" placeholder="Your Message" required></textarea>
+                <input id="name" name="name" class="contact-form-txt" placeholder="Name" required />
+                <input id="phone" name="phone" class="contact-form-phone" placeholder="Contact number" pattern="[0-9]{10}"  maxlength="10" required />
+                <input id="email" name="email" class="contact-form-email" placeholder="Email required" required />
+                <textarea id="user_message" name="message" class="contact-form-txtarea" placeholder="Your Message" required></textarea>
             </form>
-            <button onclick='SubForm()' class="contact-form-btn">Submit</button>
+            <input type="button" id="add_button" value="Submit"  class="contact-form-btn">
         </div>
     </div>
 
