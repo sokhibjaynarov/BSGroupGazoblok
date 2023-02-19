@@ -249,3 +249,20 @@ $(".translate").change(function() {
 
 });
 
+
+function SubForm() {
+    $.ajax({
+        url:"https://api.apispreadsheets.com/data/3EFUWQJ0owxCaD8p/",
+        type:"post",
+        data:$("#myForm").serializeArray(),
+        success: function(){
+            alert("Form Data Submitted :)")
+        },
+        error: function(){
+            alert("There was an error :(")
+        }
+    });
+            $('#myForm').each(function () {
+                this.reset();
+            });
+        }
