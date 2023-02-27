@@ -1361,4 +1361,9 @@ body{
         background-size: cover;
     }
 
+    .home{
+        width: auto;
+        background-image: url(../images/bg_mobile.jpg);
+    }
+
 }
