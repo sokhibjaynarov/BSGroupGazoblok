@@ -31,7 +31,7 @@ var arrLang = {
     // counter section
     "counter_work_name": "Ish vaqti",
     "counter_work_hour": "soat",
-    "counter_project_name": "Completed Projects",
+    "counter_project_name": "Tashkil topgan yili",
     "counter_worker_name": "Ishchi xodimlar",
     "counter_volume_name": "Yillik ishlab chiqarish hajmi",
     "counter_volume": "metr kub",
@@ -39,11 +39,14 @@ var arrLang = {
     // benifits section
     "benifits": "BS Gazobloklarining afzalliklari",
     "benifits_speed": "Qurulish tezligi",
-    "benifits_rigth": "Aniqlik",
+    "benifits_rigth": "O'lchamning aniqlik",
     "benifits_fire": "Yong'inga qarshilik",
     "benifits_eco": "Ekologik toza",
     "benifits_scale": "Yengil vazn",
     "benifits_voice": "Ovoz izolyatsiyasi",
+    "benifits_solid": "Mustahkamligi",
+    "benifits_energy": "Energiya tejamkorligi",
+    "benifits_cold": "Sovuqqa chidamlilik",
 
     // photogalary section
     "photo_galary": "Fotogalareya",
@@ -112,7 +115,7 @@ var arrLang = {
     // counter section
     "counter_work_name": "Рабочее время",
     "counter_work_hour": "часы",
-    "counter_project_name": "Completed Projects",
+    "counter_project_name": "Год основания",
     "counter_worker_name": "Рабочий персонал",
     "counter_volume_name": "Годовой объем производства",
     "counter_volume": "метр кубический",
@@ -120,11 +123,14 @@ var arrLang = {
     // benifits section
     "benifits": "Преимущества газоблоков BS",
     "benifits_speed": "Скорость сборки",
-    "benifits_rigth": "Точность",
+    "benifits_rigth": "Точность размеров",
     "benifits_fire": "Огнестойкость",
     "benifits_eco": "Экологически чистый",
     "benifits_scale": "Легкий вес",
     "benifits_voice": "Звукоизоляция",
+    "benifits_solid": "Прочность",
+    "benifits_energy": "Энергосбережение",
+    "benifits_cold": "Морозостойкость",
 
     // photogalary section
     "photo_galary": "Фотогалерея",
