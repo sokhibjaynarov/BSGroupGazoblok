@@ -22,7 +22,7 @@ body{
     padding-top: 6rem;
     display: inline-block;
     font-size: 3.5rem;
-    color: #002e5f;
+    color: #A92425;
     position: relative;
     letter-spacing: .2rem;
 }
@@ -223,7 +223,7 @@ body{
 
 .about .row .content h3{
     font-size: 3rem;
-    color: black;
+    color: #A92425;
 }
 
 .about .row .content p{
@@ -804,7 +804,7 @@ body{
             border-radius: 5rem;
             background: white;
             border-style: groove;
-            border-color: #002e5f;
+            border-color: #A92425;
             font-size: 1.5rem;
             cursor: pointer;
             height: 3.5rem;
@@ -815,7 +815,7 @@ body{
             letter-spacing: .1rem;
             opacity: .9;
             color: white;
-            background: #002e5f;
+            background: #A92425;
         }
 		.contact-form-phone
 		{
@@ -838,11 +838,11 @@ body{
         .footer {
             position: relative;
             padding: 0 0 30px 0;
-            background: #333;
+            background: #3D404A;
         }
         
         .footer .footer-top {
-            background: rgb(52, 58, 66);
+            background: #A92425;
             padding: 60px 0 30px 0;
         }
         
@@ -979,7 +979,7 @@ body{
         .back-to-top {
             position: fixed;
             display: none;
-            background-color: #00bfff;
+            background-color: #A92425;
             color: #ffffff;
             width: 45px;
             height: 45px;
@@ -1028,7 +1028,7 @@ body{
         }
         
         .faq .row .accordion-container .accordion .accordion-header{
-            background-color: rgb(52, 58, 66);
+            background-color: #3D404A;
             margin: 1rem 0;
             box-shadow: .1rem .1rem .3rem rgba(0,0,0,.3);
             cursor: pointer;
@@ -1043,7 +1043,7 @@ body{
             width: 5rem;
             line-height: 4rem;
             font-size: 2rem;
-            background: #333;
+            background: #A92425;
             color: #fff;
             clip-path: polygon(0% 0%,75% 0%,100% 50%,75% 100%,0% 100%); 
         }
@@ -1299,7 +1299,7 @@ body{
             border-radius: 5rem;
             background: white;
             border-style: groove;
-            border-color: #002e5f;
+            border-color: #A92425;
             font-size: 1.5rem;
             cursor: pointer;
             height: 3.5rem;
@@ -1310,7 +1310,7 @@ body{
             letter-spacing: .1rem;
             opacity: .9;
             color: white;
-            background: #002e5f;
+            background: #A92425;
         }
 		.contact-form-phone
 		{
