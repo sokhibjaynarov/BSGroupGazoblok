@@ -56,7 +56,7 @@ var arrLang = {
     "product_description_d400": "Avtoklavlangan 400 markali g’ovakli betondan tayyorlangan bloklar o’lchamlari 600x250x100, 150, 200, 250, 300, 350",
     "product_description_d500": "Avtoklavlangan 500 markali g’ovakli betondan tayyorlangan bloklar o’lchamlari 600x250x100, 150, 200, 250, 300, 350",
     "product_description_d600": "Avtoklavlangan 600 markali g’ovakli betondan tayyorlangan bloklar o’lchamlari 600x250x100, 150, 200, 250, 300, 350",
-    "product_price": "Narxi: 700 ming so'm",
+    "product_price": "Narxi: 750 ming so'm",
 
     // contact section
     "contact_heading": "Biz bilan bog'laning",
@@ -140,7 +140,7 @@ var arrLang = {
     "product_description_d400": "Блоки из ячеистых бетонов автоклавного твердения марки 400 размеры 600x250x100, 150, 200, 250, 300, 350",
     "product_description_d500": "Блоки из ячеистых бетонов автоклавного твердения марки 500 размеры 600x250x100, 150, 200, 250, 300, 350",
     "product_description_d600": "Блоки из ячеистых бетонов автоклавного твердения марки 600 размеры 600x250x100, 150, 200, 250, 300, 350",
-    "product_price": "Цена: 700 000 сум",
+    "product_price": "Цена: 750 000 сум",
 
     // contact section
     "contact_heading": "Свяжитесь с нами",
